@@ -2,7 +2,7 @@ export const educacionData = {
   nombre: "Luis Castro Márquez",
   descripcion:
     "Egresado en diciembre del año 2022 en Centro de formación Técnica Inacap Maipú, En cuanto a mi proceso de formación puedo decir que he trabajado con base de datos Relacionales Mysql y no relacionales como MongoDb, MVC, Poo en Python y Java con Aplicaciones Móviles para IoT Android Studio. FrontEnd, con html, Css, JavaScript, Bootstrap y BackEnd con Framework Django con Python y crud mediante ORM para webs con conexiones a Apis Rest. Actualmente cursando un Boot camp Full Stack (PERN), en Desafío Latam. Decidí continuar estudiando para fortalecer mis conocimientos y lograr convertirme en un Full Stack.",
-  imagen: "../src/assets/img/img-perfil.jpg",
+  imagen: "../src/assets/img/img-perfil.png",
 };
 
 export const formacionData = [
