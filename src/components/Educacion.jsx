@@ -1,5 +1,5 @@
 import { Container, Row, Col, Image } from "react-bootstrap";
-import { educacionData } from "../data"; // Importa el arreglo de datos de educación
+import { educacionData } from "../data.js"; // Importa el arreglo de datos de educación
 
 const Educacion = () => {
   return (
